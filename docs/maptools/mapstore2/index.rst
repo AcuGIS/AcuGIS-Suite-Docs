@@ -7,7 +7,7 @@
    :width: 1em
 
 **********************
-Data Sources
+MapStore2
 **********************
 
 .. contents:: Table of Contents
