@@ -7,7 +7,7 @@
    :width: 1em
 
 **********************
-PostGIS
+Maps
 **********************
 
 .. contents:: Table of Contents
