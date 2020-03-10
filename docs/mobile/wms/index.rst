@@ -7,7 +7,7 @@
    :width: 1em
 
 **********************
-GeoServer
+WMS
 **********************
 
 .. contents:: Table of Contents
