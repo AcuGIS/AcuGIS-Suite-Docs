@@ -7,7 +7,7 @@
    :width: 1em
 
 **********************
-PgRouting
+Restore
 **********************
 
 .. contents:: Table of Contents
