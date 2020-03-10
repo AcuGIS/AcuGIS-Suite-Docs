@@ -7,7 +7,7 @@
    :width: 1em
 
 **********************
-GeoServer
+Mobile Apps
 **********************
 
 .. contents:: Table of Contents
