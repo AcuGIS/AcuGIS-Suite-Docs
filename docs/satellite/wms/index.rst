@@ -8,7 +8,7 @@
    :width: 1em
 
 **********************
-PostgreSQL
+WMS
 **********************
 
 .. contents:: Table of Contents
