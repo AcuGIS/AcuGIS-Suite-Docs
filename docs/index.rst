@@ -1,4 +1,4 @@
-GeoHelm
+AcuGIS Suite
 ==================================================
 
 .. include:: ../README.rst
@@ -8,8 +8,6 @@ GeoHelm
    :maxdepth: 2
 
    intro
-   installing
-   wizard
    webmin
    
 .. toctree::
@@ -23,6 +21,48 @@ GeoHelm
     components/pgrouting/index
     components/geoserver/index
     components/shp2pgsql/index
+	components/proxy/index
+	
+.. toctree::
+    :maxdepth: 3
+    :caption: PostgreSQL
+
+    postgresql/snapshot/index
+    postgresql/clone/index
+    postgresql/restore/index    
+	
+	
+.. toctree::
+    :maxdepth: 3
+    :caption: Mapping Tools
+	
+	maptools/intro/index
+    maptools/mapstore2/index
+    maptools/lizmap/index
+    maptools/mapbender/index
+    maptools/other/index
+	
+.. toctree::
+    :maxdepth: 3
+    :caption: Mobile Data
+
+    mobile/intro/index
+    mobile/datasources/index
+    mobile/forms/index
+    mobile/users/index
+    mobile/wms/index
+    mobile/mobileapps/index
+	
+.. toctree::
+    :maxdepth: 3
+    :caption: Satellite
+
+    satellite/intro/index
+    satellite/projects/index
+    satellite/sentinelhub/index
+	satellite/wms/index
+    satellite/maps/index
+
     
 .. toctree::
     :maxdepth: 2
@@ -39,8 +79,7 @@ GeoHelm
     resources/css
     resources/security
     resources/support
-    resources/commercial
-    resources/license
+    
     
     
     
