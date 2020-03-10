@@ -7,7 +7,7 @@
    :width: 1em
 
 **********************
-Forms
+Lizmap
 **********************
 
 .. contents:: Table of Contents
