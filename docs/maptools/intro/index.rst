@@ -7,7 +7,7 @@
    :width: 1em
 
 **********************
-General
+Intro
 **********************
 
 .. contents:: Table of Contents
