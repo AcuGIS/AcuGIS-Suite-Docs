@@ -7,7 +7,7 @@
    :width: 1em
 
 **********************
-General
+Snapshots
 **********************
 
 .. contents:: Table of Contents
