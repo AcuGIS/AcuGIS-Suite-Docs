@@ -7,7 +7,7 @@
    :width: 1em
 
 **********************
-GeoServer
+Projects
 **********************
 
 .. contents:: Table of Contents
