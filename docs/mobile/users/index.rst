@@ -8,7 +8,7 @@
    :width: 1em
 
 **********************
-PostgreSQL
+Mobile Users
 **********************
 
 .. contents:: Table of Contents
