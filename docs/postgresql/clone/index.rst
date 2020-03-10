@@ -7,7 +7,7 @@
    :width: 1em
 
 **********************
-GeoServer
+Clone
 **********************
 
 .. contents:: Table of Contents
