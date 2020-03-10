@@ -7,7 +7,7 @@
    :width: 1em
 
 **********************
-GeoServer
+MapBender
 **********************
 
 .. contents:: Table of Contents
