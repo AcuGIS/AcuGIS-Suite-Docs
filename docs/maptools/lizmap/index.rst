@@ -7,7 +7,7 @@
    :width: 1em
 
 **********************
-PostGIS
+Forms
 **********************
 
 .. contents:: Table of Contents

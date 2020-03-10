@@ -7,7 +7,7 @@
    :width: 1em
 
 **********************
-PgRouting
+Data Sources
 **********************
 
 .. contents:: Table of Contents
