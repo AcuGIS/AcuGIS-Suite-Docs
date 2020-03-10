@@ -7,7 +7,7 @@
    :width: 1em
 
 **********************
-PgRouting
+Sentinel Hub
 **********************
 
 .. contents:: Table of Contents
