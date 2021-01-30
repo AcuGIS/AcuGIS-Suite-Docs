@@ -8,7 +8,7 @@ AcuGIS Suite allows you to manage all aspects of your Open Source GIS stack quic
 
 All installed components are non-forked and un-modified and installed via the projects archive.
 
-.. image:: _static/geohelm-header.png
+.. image:: _static/acugis-suite.gif
 
 
 System Requirements
