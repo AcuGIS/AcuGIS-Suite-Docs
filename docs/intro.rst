@@ -4,13 +4,7 @@ Intro
 Overview
 ------------
 
-GeoHelm is a Webmin Module that allows you to build a full Open Source GIS stack quickly and easily.
-
-GeoHelm installs and configures PostgreSQL, PostGIS, GeoServer (optionally), Tomcat, and JDK.
-
-It includes a panel for managing all aspects of the service.
-
-GeoHelm can be installed on CentOS 7 or 8 or Ubuntu 18.
+AcuGIS Suite allows you to manage all aspects of your Open Source GIS stack quickly and easily.
 
 All installed components are non-forked and un-modified and installed via the projects archive.
 
@@ -20,18 +14,16 @@ All installed components are non-forked and un-modified and installed via the pr
 System Requirements
 -------------------
 * CentOS 8 or 
-* Ubuntu 18
+* Ubuntu 20
 * Webmin
-* 1 GB Ram
-* 10 GB SSD
+
 
 Authors
 -------
 * `David Ghedini`_
-* `Kaloyan Petrov`_
 
 .. _`David Ghedini`: https://github.com/DavidGhedini
-.. _`Kaloyan Petrov`: https://github.com/kaloyan13
+
 
 
 
