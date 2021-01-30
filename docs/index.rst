@@ -3,6 +3,9 @@ AcuGIS Suite
 
 .. include:: ../README.rst
 
+
+.. image:: _static/acugis-suite.gif
+
 .. toctree::
    :caption: Getting Started
    :maxdepth: 2
