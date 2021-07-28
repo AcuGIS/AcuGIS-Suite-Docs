@@ -12,27 +12,27 @@ Lizmap
 
 .. contents:: Table of Contents
 
-Installing PostGIS
+Access
 ==================
 
-PostGIS can be enabled on your PostgreSQL database via the Extension tab or via Command Line.
+Unless requested otherwise, Lizmap can be accessed via:
 
-Command Line
+	https://domain.com/lizmap
+
+Admin Area
 ============
 
-To install via command line:
+To access the Admin area navigate to:
 
-1. Connect to PostgreSQL
+	https://domain.com/lizmap
 
-.. code-block:: console
-   :linenos:
+Click on the Connect button at top right.
 
-   root@geohelm:~# su - postgres
-   postgres@geohelm:~$ psql
-   psql (12.2 (Ubuntu 12.2-2.pgdg18.04+1))
-   Type "help" for help.
+The default user/pass is admin/admin
 
-   postgres=#
+.. Note:: 
+   Be sure to change the admin password! 
+   
 
  
 
