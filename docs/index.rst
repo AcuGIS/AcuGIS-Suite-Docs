@@ -61,10 +61,7 @@ AcuGIS Suite
     :caption: Satellite
 
     satellite/intro/index
-    satellite/projects/index
-    satellite/sentinelhub/index
-	satellite/wms/index
-    satellite/maps/index
+    
 
     
 .. toctree::
