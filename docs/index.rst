@@ -45,17 +45,7 @@ AcuGIS Suite
     maptools/mapbender/index
     maptools/other/index
 	
-.. toctree::
-    :maxdepth: 3
-    :caption: Mobile Data
 
-    mobile/intro/index
-    mobile/datasources/index
-    mobile/forms/index
-    mobile/users/index
-    mobile/wms/index
-    mobile/mobileapps/index
-	
 .. toctree::
     :maxdepth: 3
     :caption: Satellite
