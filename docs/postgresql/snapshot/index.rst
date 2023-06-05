@@ -6,54 +6,38 @@
 .. |EXAMPLE| image:: static/yi_jing_01_chien.jpg
    :width: 1em
 
-**********************
-Snapshots
-**********************
+***************************
+Database Snapshots
+***************************
 
 .. contents:: Table of Contents
-Edit Config
+
+Take Snapshot
 =============
 
-.. image:: _static/config-tab.png
+To take a snapshot, click the Snapshot tab as shown below.
 
-The Config tab is used to edit the following files::
+      .. image:: _static/snapshot-tab.png
 
-   server.xml
-   web.xml
-   context.xml
-   tomcat-users.xml
-   setenv.sh
-   
-These files can, of course, be edited via the file system or VI as well.
+      
+From here, select the database you wish to Snapshot from the drop-down as shown below and click the Create button.  
 
 
-Apps
-====
-.. image:: _static/apps-tab.png
+      .. image:: _static/snapshot-panel.png
+      
+      
+      
+Snapshot Location
+===================
+      
+Snapshots are saved to /opt/snapshots/
 
-The Apps manager allows you to deploy, undeploy, and redeploy WAR files in Apache Tomcat
+The Snapshots are taken in both sql and dump formats.
 
-   
-Java
-=========
-.. image:: _static/java-tab.png
+A a timestap is added in the format YYYY-MM-DD-HR-MM-database.  An example is shown below::
 
-The Java tab is used during installation as well as for updating of JDK.
+   /opt/2020-05-10-08-55_demodb.sql.gz
 
-It can also be used to un-install the selected JDK and replace it with a new version.
-
-
-.. image:: _static/java-installed.png
-
-
-.. note::
-    When installing or removing, there is an option to set as System default.
-
-
-MapJS
-=========
-
-The MapJS tab is simply a file browser for viewing and editing both OpenLayers and LeafletJS files.
 
 
 
