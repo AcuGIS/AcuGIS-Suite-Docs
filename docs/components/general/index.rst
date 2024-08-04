@@ -55,5 +55,21 @@ Extension Installer
 
 The GeoServer Extensions installer is used to intall and manage GeoServer Extensions
 
-.. image:: _static/geo2.png
+.. image:: _static/geos2.png
+
+
+Libraries
+=====================
+
+The Libraries tab is used to view, edit, and manage .jar files in the Tomcat/lib directory
+
+.. image:: _static/libraries-1.png
+
+
+Docs
+=====================
+
+The Docs tab links to this documentation
+
+.. image:: _static/docs-1.png
 
