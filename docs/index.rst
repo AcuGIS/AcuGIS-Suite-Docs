@@ -51,21 +51,15 @@ AcuGIS GeoServer Dedicated Hosting allows you to manage all aspects of your Open
     maptools/other/index
 	
 
-.. toctree::
-    :maxdepth: 3
-    :caption: Satellite
-
-    satellite/intro/index
-    
-
-    
+ 
 .. toctree::
     :maxdepth: 2
-    :caption: Web Apps
+    :caption: High Availability
 
-    webapps/homepage
-    webapps/openlayers
-    webapps/leafletjs
+    ha/overview
+    ha/hassd
+    ha/loadbalancers
+    hs/cluster
 
 .. toctree::
     :maxdepth: 2
