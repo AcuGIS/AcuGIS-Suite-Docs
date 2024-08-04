@@ -42,7 +42,9 @@ As we can see above, the creation of our NewReports Directory has been added to 
 Geoserver Extensions
 ====================
 
-GeoServer Extensions can be installed as below.
+GeoServer Extensions can be installed using the Extension Installer in your control panel.
+
+They can also be installed manually as below:
 
 Below, we are installing the MapFish Print Module via SSH.
 
