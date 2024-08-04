@@ -45,8 +45,8 @@ html_css_files = [
 pygments_style = "sphinx"
 
 
-html_logo = "geosync-logo.png"
-html_theme_options = {
-    'logo_only': True,
-    'display_version': False,
-}
+# html_logo = "geosync-logo.png"
+# html_theme_options = {
+#    'logo_only': True,
+#    'display_version': False,
+# }

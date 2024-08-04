@@ -14,19 +14,12 @@ GeoServer
 Overview
 ==================
 
-GeoHelm installs the latest, stable version of GeoServer.
+GeoServer Dedicated Hosting includes the latest, stable version of GeoServer.
 
-The GeoServer tab checks that GeoServer is installed.
+The GeoServer page looks as below
 
-.. image:: _static/geoserver-tab.png
+.. image:: _static/geos1.png
 
-If not, it can be installed using the "Install Now" button.
-
-This will install the latest, stable version of GeoServer.
-
-Important: GeoServer is an optional component on the GeoHelm Java Version.
-
-If you do not wish to install it, simply do not do so.
 
 Location
 ================== 
@@ -42,7 +35,22 @@ As we can see above, the creation of our NewReports Directory has been added to 
 Geoserver Extensions
 ====================
 
-GeoServer Extensions can be installed as below.
+GeoServer Extensions can be installed using the Extension Installer in your control panel.
+
+Click on the Extension Installer icon
+
+.. image:: _static/geos2.png
+
+Select the Extension you wish to install and click Install
+
+
+.. image:: _static/geos2-a.png
+
+You can also remove Extensions using the Uninstall button as shown below:
+
+.. image:: _static/geos3.png
+
+They can also be installed manually as below:
 
 Below, we are installing the MapFish Print Module via SSH.
 
