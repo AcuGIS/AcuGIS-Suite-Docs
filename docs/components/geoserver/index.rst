@@ -46,7 +46,7 @@ Select the Extension you wish to install and click Install
 
 .. image:: _static/geos2-a.png
 
-You can also remove Extensions using the Delete tab as shown below:
+You can also remove Extensions using the Uninstall button as shown below:
 
 .. image:: _static/geos3.png
 
