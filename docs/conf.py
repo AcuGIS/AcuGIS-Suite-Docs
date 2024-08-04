@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'GeoSync'
+project = 'GeoServer Dedicated'
 copyright = '2024, Cited, Inc.'
 author = 'Graziella'
 
@@ -33,3 +33,20 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+html_static_path = ['_static']
+
+# These paths are either relative to html_static_path
+# or fully qualified paths (eg. https://...)
+html_css_files = [
+    'css/custom.css',
+]
+
+pygments_style = "sphinx"
+
+
+html_logo = "geosync-logo.png"
+html_theme_options = {
+    'logo_only': True,
+    'display_version': False,
+}

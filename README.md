@@ -1,2 +1,2 @@
-# AcuGIS-Suite-Docs
-AcuGIS Suite Docs
+# GeoServer Dedicated Docs
+AcuGIS GeoServere Dedicated Docs
