@@ -44,7 +44,6 @@ AcuGIS GeoServer Dedicated Hosting allows you to manage all aspects of your Open
     :maxdepth: 3
     :caption: Mapping Tools
 	
-    maptools/intro/index
     maptools/mapstore2/index
     maptools/lizmap/index
     maptools/qwc2
