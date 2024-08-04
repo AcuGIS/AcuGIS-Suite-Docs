@@ -27,7 +27,7 @@ AcuGIS GeoServer Dedicated Hosting allows you to manage all aspects of your Open
     components/pgrouting/index
     components/geoserver/index
     components/shp2pgsql/index
-    components/proxy/index
+    
 
 
 .. toctree::
