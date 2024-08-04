@@ -50,10 +50,10 @@ It can also be used to un-install the selected JDK and replace it with a new ver
     When installing or removing, there is an option to set as System default.
 
 
-MapJS
-=========
+Extension Installer
+=====================
 
-The MapJS tab is simply a file browser for viewing and editing both OpenLayers and LeafletJS files.
+The GeoServer Extensions installer is used to intall and manage GeoServer Extensions
 
-
+.. image:: _static/geo2.png
 
