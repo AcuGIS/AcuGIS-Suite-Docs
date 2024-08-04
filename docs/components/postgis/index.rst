@@ -12,10 +12,15 @@ PostGIS
 
 .. contents:: Table of Contents
 
-Installing PostGIS
+The PostGIS Panel
 ==================
 
-PostGIS can be enabled on your PostgreSQL database via the Extension tab or via Command Line.
+The PostGIS menu in your control panel allows you to manage all aspects of PostGIS.
+
+You can also do so via Command Line as well
+
+.. image:: _static/postgis-panel-1.png
+
 
 Command Line
 ============
