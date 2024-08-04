@@ -44,6 +44,15 @@ Geoserver Extensions
 
 GeoServer Extensions can be installed using the Extension Installer in your control panel.
 
+Click on the GeoServe Extensions icon
+
+.. image:: _static/geos1.png
+
+
+geos2.png
+geos2-a.png
+geos3.png
+
 They can also be installed manually as below:
 
 Below, we are installing the MapFish Print Module via SSH.
