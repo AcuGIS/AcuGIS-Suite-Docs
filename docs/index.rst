@@ -47,8 +47,8 @@ AcuGIS GeoServer Dedicated Hosting allows you to manage all aspects of your Open
     maptools/intro/index
     maptools/mapstore2/index
     maptools/lizmap/index
-    maptools/qwc2/index
-    maptools/g3w-suite/index
+    maptools/qwc2
+    maptools/g3w-suite
     maptools/mapbender/index
     maptools/other/index
 	
