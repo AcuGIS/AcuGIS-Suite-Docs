@@ -4,7 +4,10 @@ AcuGIS Suite
 .. include:: ../README.rst
 
 
-.. image:: _static/acugis-suite.gif
+AcuGIS GeoServer Dedicated Hosting allows you to manage all aspects of your Open Source GIS stack quickly and easily.
+
+.. image:: _static/geoserver-dedicated-splash.png
+
 
 .. toctree::
    :caption: Getting Started
