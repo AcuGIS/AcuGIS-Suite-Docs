@@ -59,7 +59,7 @@ AcuGIS GeoServer Dedicated Hosting allows you to manage all aspects of your Open
     ha/overview
     ha/hassd
     ha/loadbalancers
-    hs/cluster
+    ha/cluster
 
 .. toctree::
     :maxdepth: 2
