@@ -4,18 +4,19 @@ Intro
 Overview
 ------------
 
-AcuGIS Suite allows you to manage all aspects of your Open Source GIS stack quickly and easily.
+AcuGIS GeoServer Dedicated Hosting allows you to manage all aspects of your Open Source GIS stack quickly and easily.
 
 All installed components are non-forked and un-modified and installed via the projects archive.
 
-.. image:: _static/acugis-suite.gif
+.. image:: _static/geoserver-dedicated-splash.png
+
 
 
 System Requirements
 -------------------
-* CentOS 8 or 
-* Ubuntu 20
-* Webmin
+* Ubuntu 22 or 24
+* Rocky Linux 8 or 9
+* Oracle Enterprise Linux
 
 
 Authors
@@ -52,12 +53,7 @@ Components
  
 
 
-Open Source
------------
 
-GeoHelm is Free, Open Source Software.
-
-GNU GENERAL PUBLIC LICENSE v3
 
 
 
